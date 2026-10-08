@@ -8,8 +8,8 @@ O **Climapp** é uma aplicação mobile desenvolvida em **Flutter** para consult
 
 ## 👥 Integrantes
 
-- **Victor Cesar Souza** — Matrícula: **16037431**
-- **Kelvin Gabriel Oliveira Santana** — Matrícula: **16034918**
+- **Brunno Alexsander Lima Oliveira** — Matrícula: **16035443**
+- **Marcos Gabriel dos Santos Lima** — Matrícula: **16035435**
 
 ---
 
